@@ -1,8 +1,10 @@
 # Projektarbeiten während des Masterstudiums Psychologie, Universität Leipzig
 
 
-1. Steuerung psychologischer Experimente
-    - Programmierung eines Reaktionszeitexperiments mit auditivem Stimulusmaterial mithilfe der MATLAB Psychtoolbox
+# Steuerung psychologischer Experimente
+    - MATLAB Psychtoolbox
+    - Programmierung eines Reaktionszeitexperiments mit auditivem Stimulusmaterial
 
-2. Auswertung und Interpretation von Daten aus Hirnstrommessungen
-    - Auswertung und Visualisierung von EEG-Daten mithilfer der MATLAB EEGLAB Toolbox
+# Auswertung und Interpretation von Daten aus Hirnstrommessungen
+    - MATLAB EEGLAB Toolbox
+    - Auswertung und Visualisierung von EEG-Daten
